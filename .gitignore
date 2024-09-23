@@ -1,0 +1,9 @@
+# ignore dataset
+imagenette2/
+
+# ignore results
+results/
+crp_files/
+
+# ignore pycache
+**/__pycache__/
