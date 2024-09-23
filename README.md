@@ -1,6 +1,6 @@
 ## Description
 
-This repository is a fork of [original PURE](https://github.com/maxdreyer/PURE).
+This repository is a fork of the [original PURE](https://github.com/maxdreyer/PURE).
 
 ### Abstract 
 
