@@ -2,7 +2,8 @@
 
 This repository is a fork of the original [PURE](https://github.com/maxdreyer/PURE). Unlike the original version, you can select attribution layers by using codes in this fork.
 
-Presentation slide: https://docs.google.com/presentation/d/1xInC3N2d6t0F5yusOLq-5Ur6lyH0gEAxTYLbvRbfoO8/edit?usp=sharing
+[Report](https://github.com/yotaKawashima/modified_PURE/blob/main/Kawashima_LabRotation_report.pdf).
+
 
 ## Installation
 
