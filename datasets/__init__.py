@@ -4,7 +4,13 @@ from datasets.imagenet import get_imagenet
 
 DATASETS = {
     "imagenet": get_imagenet,
+    "imagenette2": get_imagenet,
+    
 }
+
+#DATASETS = {
+#    "imagenet": get_imagenet,
+#}
 
 
 def get_dataset(dataset_name: str) -> Callable:

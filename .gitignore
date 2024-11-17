@@ -7,3 +7,7 @@ crp_files/
 
 # ignore pycache
 **/__pycache__/
+
+
+# ignore virtual env
+.venv/
